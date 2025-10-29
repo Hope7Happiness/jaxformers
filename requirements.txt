@@ -1,0 +1,9 @@
+# Core dependencies
+jax>=0.4.0
+jaxlib>=0.4.0
+flax>=0.7.0
+numpy>=1.20.0
+ml_collections>=0.1.0
+
+# Optional: For PyTorch weight conversion
+# torch>=1.10.0

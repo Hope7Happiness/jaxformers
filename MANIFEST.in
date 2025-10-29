@@ -1,0 +1,7 @@
+include README.md
+include LICENSE
+include QUICKSTART.md
+include SUMMARY.md
+include VISUAL_GUIDE.md
+include requirements.txt
+recursive-include jaxformers *.py
